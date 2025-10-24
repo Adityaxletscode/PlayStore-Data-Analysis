@@ -19,6 +19,14 @@ It involves **data cleaning, exploratory data analysis (EDA)**, and **visualizat
 
 ---
 
+## 📂 Data Source
+The dataset used in this project was collected from **Kaggle**:  
+📊 [Google Play Store Apps Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps?resource=download)
+
+This dataset contains detailed information about Android applications available on the Google Play Store, including app category, rating, size, installs, price, and more.
+
+---
+
 ## 🧹 Data Cleaning
 - Removed missing and duplicate values  
 - Standardized column names  
@@ -72,5 +80,4 @@ You can view or run the Colab notebook directly using this badge:
 ## ⚙️ How to Run Locally
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Adityaxletscode
-/playstore-data-analysis.git
+   git clone https://github.com/Adityaxletscode/playstore-data-analysis.git
