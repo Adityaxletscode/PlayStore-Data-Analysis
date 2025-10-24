@@ -56,9 +56,8 @@ A **fully interactive Power BI dashboard** visualizes:
 ## 🌐 View Notebook Online
 You can view or run the Colab notebook directly using this badge:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/playstore-data-analysis/blob/main/notebooks/PlayStore_dataAnalysis.ipynb)
-
-*(Replace `yourusername` with your GitHub username once you upload the repo)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adityaxletscode
+/playstore-data-analysis/blob/main/notebooks/PlayStore_dataAnalysis.ipynb)
 
 ---
 
@@ -73,4 +72,5 @@ You can view or run the Colab notebook directly using this badge:
 ## ⚙️ How to Run Locally
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/playstore-data-analysis.git
+   git clone https://github.com/Adityaxletscode
+/playstore-data-analysis.git
